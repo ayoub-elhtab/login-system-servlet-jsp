@@ -20,4 +20,4 @@ This project is a **user authentication system** built using **Java Servlets, JS
 - Input validation for user registration
 
 
-![login form](./images/Capture d'écran 2025-02-25 153315.png)
+![login form](./images/login_form_screenshot.png)
