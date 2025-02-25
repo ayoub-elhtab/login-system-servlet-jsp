@@ -21,3 +21,6 @@ This project is a **user authentication system** built using **Java Servlets, JS
 
 
 ![login form](./images/login_form_screenshot.png)
+
+![signup form](./images/signup_form_screenshot.png)
+
