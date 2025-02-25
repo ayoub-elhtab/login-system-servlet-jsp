@@ -19,3 +19,6 @@ This project is a **user authentication system** built using **Java Servlets, JS
 - Session-based user login/logout
 - Input validation for user registration
 
+
+![login form](./images/Capture d'écran 2025-02-25 153315.png)
+![signup form](./Capture d'écran 2025-02-25 153409.png)
